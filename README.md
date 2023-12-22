@@ -1,8 +1,7 @@
 # 2DMagic
 2D game engine - kind of thing
 
-2DMagic (ye I didn't wanna waste time thinking about a random pokemon name) is a really small 2D game engine built upon SDL.
-The whole purpose of this project is just learning and having fun, so probably you dont want to use this engine to create your next AAA 2D game.
+2DMagic (I chose a simple name because, let's be honest, who has time for coming up with a random Pokémon name?) is this tiny 2D game engine I put together back in my UNI days using SDL. It's not meant for creating the next big 2D blockbuster; I mainly built it to learn and have some fun.
 
 ![image](https://github.com/endredev/2DMagic-Engine/assets/65132474/7af25c85-cd9d-4f95-9231-57ab292c8f93)
 

@@ -4,6 +4,9 @@
 2DMagic (ye I didn't wanna waste time thinking about a random pokemon name) is a really small 2D game engine built upon SDL.
 The whole purpose of this project is just learning and having fun, so probably you dont want to use this engine to create your next AAA 2D game.
 
+![image](https://github.com/endredev/2DMagic-Engine/assets/65132474/7af25c85-cd9d-4f95-9231-57ab292c8f93)
+
+
 I've been experiencing with some of the smaller features of the a 2D engine, so far I implemented:
 
 :white_check_mark: Basic ECS system
